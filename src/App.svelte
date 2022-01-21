@@ -8,7 +8,7 @@
   import Social from "./lib/Social.svelte"
 
   const url = "https://single-page-svelte.vercel.app"
-  const title = "Single Page Svelte"
+  const title = "Sample Website"
 
   const menuItems = [{ name: "Github", url: "https://github.com/narze/single-page-svelte" }]
 
@@ -25,7 +25,7 @@
 
 <main class="w-full h-screen flex flex-col justify-center items-center">
   <h1 class="text-6xl text-green-400 flex flex-col">
-    <span>Single</span><span>Page</span><span>Svelte</span>
+    <span>Sample</span><span>Website</span>
   </h1>
 </main>
 
